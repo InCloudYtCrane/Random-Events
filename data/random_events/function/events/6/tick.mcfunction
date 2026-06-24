@@ -1,0 +1,1 @@
+execute as @e[type=item] at @s run function random_events:events/6/attack

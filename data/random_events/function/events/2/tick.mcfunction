@@ -1,0 +1,1 @@
+execute as @a at @s as @e[distance=..16,type=!player] at @s facing entity @p feet run tp @s ~ ~ ~ ~ ~

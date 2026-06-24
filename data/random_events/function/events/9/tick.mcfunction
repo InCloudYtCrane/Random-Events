@@ -1,0 +1,1 @@
+execute at @a as @e[distance=..32] run effect give @s glowing 1 0 true

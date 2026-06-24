@@ -1,0 +1,1 @@
+execute as @a at @s as @e[type=item,distance=..16] at @s facing entity @p feet run tp @s ^ ^ ^0.05

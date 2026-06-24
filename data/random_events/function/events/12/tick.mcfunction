@@ -1,0 +1,1 @@
+execute as @a at @s as @e[tag=myself,type=skeleton,sort=nearest,limit=1] at @s run function random_events:events/12/equipment
